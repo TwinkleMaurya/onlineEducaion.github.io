@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.page-header {
+    display: flex;
+    justify-content: space-between;
+    background: silver;
+    padding: 10px 15px;
+}
+div#menu {
+    font-size: 20px;
+    font-weight: 600;
+    color: green;
+}
+nav.navbar {
+    border: 1px solid silver;
+    background: azure;
+    padding: 50px;
+    margin: 20px;
+    border-radius: 4px;
+    box-shadow: 2px 2px 3px 2px silver;
+}
+ul{
+    list-style: none;
+}
+ul li a{
+    text-decoration: none;
+}
